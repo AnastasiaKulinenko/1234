@@ -1,4 +1,5 @@
-﻿int n = int.Parse(Console.ReadLine());
+//3 листинг своих задач
+int n = int.Parse(Console.ReadLine());
 int[] mas = new int[n];
 Random rand = new Random();
 int index = 0;
