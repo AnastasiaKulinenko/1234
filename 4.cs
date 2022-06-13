@@ -1,3 +1,4 @@
+//4задание задач без варианта
 ﻿Random rand = new Random();
 int array = new int[n];
 Console.WriteLine("последовательность:");
