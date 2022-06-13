@@ -1,3 +1,4 @@
+//4 листинг своих задач
 ﻿Console.WriteLine("Введите размероность массива");
 int n = int.Parse(Console.ReadLine());
 int[] mas = new int[n];
