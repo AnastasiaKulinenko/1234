@@ -1,3 +1,4 @@
+//1задание задач без варианта
 ﻿Console.Write("Введите значение последнего промежутка n: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите количество попыток:");
