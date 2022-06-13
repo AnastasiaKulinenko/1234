@@ -1,3 +1,4 @@
+//1 листинг своих задач
 ﻿double U =
     double.Parse(Console.ReadLine());
 double R = 
