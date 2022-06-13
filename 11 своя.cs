@@ -1,3 +1,4 @@
+//6 листинг своих задач
 ﻿int num =
     int.Parse(Console.ReadLine());
 int count = 0;
