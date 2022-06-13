@@ -1,3 +1,4 @@
+//2 листинг своих задач
 ﻿int R;
 Console.WriteLine("Введите величину первого сопротивления, Ом");
 int r1 = int.Parse(Console.ReadLine());
