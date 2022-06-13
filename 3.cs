@@ -1,3 +1,4 @@
+//3задание задач без варианта
 ﻿Console.WriteLine("Введите площадь ");
 int N = int.Parse(Console.ReadLine());
 for (int q = 1; q <= 1000; q++)
