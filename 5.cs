@@ -1,3 +1,4 @@
+//5задание задач без варианта
 ﻿Console.WriteLine("Сколько было яблок?");
 int yab = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Сколько было человек?");
