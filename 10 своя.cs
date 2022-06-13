@@ -1,3 +1,4 @@
+//5 листинг своих задач
 ﻿int n = Convert.ToInt32(Console.ReadLine());
 int x = int.Parse(Console.ReadLine());
 int y = int.Parse(Console.ReadLine());
